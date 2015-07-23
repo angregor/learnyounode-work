@@ -1,8 +1,9 @@
 # learnyounode-work
 
-Lessons:
-  Lesson 1: Hello World
-  Lesson 2: Baby Steps
+#Lessons:
+ # Lesson 1: Hello World
+<br>
+Lesson 2: Baby Steps
   Lesson 3: My First I/O
   Lesson 4: My First Async I/O
   Lesson 5: Filtered LS

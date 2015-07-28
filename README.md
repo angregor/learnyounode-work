@@ -15,7 +15,7 @@ Lesson 2: Baby Steps
   <br>
   Lesson 7: HTTP Client
   <br>
-  Lesson 8: INCOMPLETE
+  Lesson 8: HTTP Collect
   <br>
   Lesson 9: INCOMPLETE
   <br>

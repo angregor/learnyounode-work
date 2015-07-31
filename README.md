@@ -17,7 +17,7 @@ Lesson 2: Baby Steps
   <br>
   Lesson 8: HTTP Collect
   <br>
-  Lesson 9: INCOMPLETE
+  Lesson 9: Juggling Async
   <br>
   Lesson 10: INCOMPLETE
   <br>

@@ -19,7 +19,7 @@ Lesson 2: Baby Steps
   <br>
   Lesson 9: Juggling Async
   <br>
-  Lesson 10: INCOMPLETE
+  Lesson 10: Time Server
   <br>
   Lesson 11: INCOMPLETE
   <br>

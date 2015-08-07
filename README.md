@@ -21,8 +21,8 @@ Lesson 2: Baby Steps
   <br>
   Lesson 10: Time Server
   <br>
-  Lesson 11: INCOMPLETE
+  Lesson 11: HTTP File Server
   <br>
-  Lesson 12: INCOMPLETE
+  Lesson 12: HTTP Uppercaser
   <br>
-  Lesson 13: INCOMPLETE
+  Lesson 13: HTTP JSON API Server
